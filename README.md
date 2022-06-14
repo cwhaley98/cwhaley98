@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cwhaley98
 - 👀 I’m interested in reading books and video games
 - 🌱 I’m currently learning Python and Full-Stack Engineering
-- 💞️ I’m looking to collaborate on...
+- 💞️ I’m looking to collaborate on code related projects.
 - 📫 How to reach me https://www.linkedin.com/in/christopher-w-460881104/
 
 <!---
